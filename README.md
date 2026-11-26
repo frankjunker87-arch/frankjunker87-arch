@@ -131,3 +131,12 @@ status: [ ACCESS GRANTED ]
 <!--
 **frankjunker87-arch/frankjunker87-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+## Contributors
+
+- [@psehgaft](https://github.com/psehgaft) — collaborator
+- [@san985tos](https://github.com/san985tos) — collaborator
+- [@tec-girl](https://github.com/tec-girl) — collaborator
+
+
+
